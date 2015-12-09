@@ -1,0 +1,18 @@
+{
+  "name": "jquery-nav-menu",
+  "description": "Track navigation state across a website",
+  "main": "index.js",
+  "authors": [
+    "Alex Taujenis <alex.taujenis@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "es6"
+  ],
+  "homepage": "",
+  "private": true,
+  "devDependencies": {
+    "jquery": "~2.1.4",
+    "jasmine-jquery": "~2.1.1"
+  }
+}

@@ -1,4 +1,4 @@
-# jQuery Nav Menu Plugin - Track navigation state and reveal content.
+# jQuery Nav Menu Plugin v1.0.0-alpha.1 - Track navigation state and reveal content.
 # https://github.com/alextaujenis/jquery-nav-menu
 # Copyright 2015 Alex Taujenis
 # MIT License

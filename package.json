@@ -1,6 +1,6 @@
 {
   "name": "jquery-nav-menu",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "Track navigation state and reveal content",
   "main": "index.js",
   "scripts": {

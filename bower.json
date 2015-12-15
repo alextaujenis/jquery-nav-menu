@@ -1,6 +1,6 @@
 {
   "name": "jquery-nav-menu",
-  "description": "Track navigation state across a website",
+  "description": "Track navigation state and reveal content",
   "main": "index.js",
   "authors": [
     "Alex Taujenis <alex.taujenis@gmail.com>"

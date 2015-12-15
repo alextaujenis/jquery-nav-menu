@@ -1,7 +1,7 @@
 {
   "name": "jquery-nav-menu",
   "version": "1.0.0",
-  "description": "Track navigation state across a website",
+  "description": "Track navigation state and reveal content",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

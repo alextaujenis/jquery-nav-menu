@@ -1,6 +1,3 @@
-# Karma configuration
-# Generated on Mon Dec 07 2015 16:08:06 GMT-0700 (MST)
-
 module.exports = (config) ->
   config.set
     basePath: ''
@@ -10,7 +7,7 @@ module.exports = (config) ->
       captureConsole: true
     reporters: ['spec']
     preprocessors: '**/*.coffee': ['coffee']
-    reportSlowerThan: 10
+    reportSlowerThan: 100
     port: 9876
     colors: true
     logLevel: config.LOG_WARN
@@ -21,10 +18,10 @@ module.exports = (config) ->
       # libraries
       'bower_components/jquery/dist/jquery.js'
       'bower_components/jasmine-jquery/lib/jasmine-jquery.js'
-      # fixtures
-      'spec/fixtures.html'
       # plugin
       'src/jquery-nav-menu.coffee'
+      # fixtures
+      'spec/fixtures.html'
       # spec
       'spec/spec.coffee'
     ]

@@ -1,5 +1,5 @@
-# Overview
-jQuery Nav Menu tracks menu state by applying an .active class to selected items while revealing inline content.
+# jQuery Nav Menu v1.0.0-alpha.1
+This plugin tracks menu state by applying an .active class to selected items while revealing inline content.
 
 # Development
 Install NPM from npmjs.com, then CD to this directory and install plugins via:
